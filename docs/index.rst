@@ -4,6 +4,12 @@ If you're using iolo's System Mechanic to improve your computer’s speed and st
 
 From subscription renewals to license management, the **system mechanic sign** experience is designed to be fast and user-friendly. Most issues like device activation errors or expired subscriptions can be resolved by accessing your dashboard via the **system mechanic sign** page.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+   </div>
+
 In this guide, we will walk you through each step of the **system mechanic sign** process and explore what you can do once you are logged in.
 
 Why You Need a System Mechanic Account
@@ -216,5 +222,6 @@ Conclusion
 ----------
 
 Completing your **system mechanic sign** ensures that you stay in control of your subscription, licensing, and system performance. Whether you're a new user or a longtime customer, signing into your iolo account allows you to take full advantage of System Mechanic's features.
+
 
 From reinstalling software to updating billing information or renewing subscriptions, everything can be managed quickly and securely through your account. Don't let small login issues or expired licenses affect your device performance. Complete the **system mechanic sign** today and enjoy uninterrupted access to your PC optimization tools.
